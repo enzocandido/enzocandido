@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
 
-## ☕ Hello Word
+## ☕ Hello World
 
 <p align="left"> 
   Apenas um amante de programação e estudante de <strong>análise e desenvolvimento de sistemas</strong>.<br>
