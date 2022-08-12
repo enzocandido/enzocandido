@@ -27,7 +27,3 @@ Here are some ideas to get you started:
   🦄 Linguagens: <strong>JavaScript, PHP, Python, Java</strong>
 </p>
 
-<p align="left">
-  💼 Ferramentas: <strong>Coloque as suas ferramentas de trabalho.</strong>
-</p>
-
