@@ -1,6 +1,5 @@
-### Hi there 👋
+<!-- ### Hi there 👋
 
-<!--
 **enzocandido/enzocandido** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,3 +13,21 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
+
+## ☕ Hello Word
+
+<p align="left"> 
+  Apenas um amante de programação e estudante de <strong>análise e desenvolvimento de sistemas</strong>.<br>
+  Atualmente apenas me aprofundando em algumas linguagens.
+</p>
+
+<p align="left">
+  🦄 Linguagens: <strong>JavaScript, PHP, Python, Java</strong>
+</p>
+
+<p align="left">
+  💼 Ferramentas: <strong>Coloque as suas ferramentas de trabalho.</strong>
+</p>
+
