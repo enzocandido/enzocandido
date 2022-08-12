@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 <p align="left"> 
   Apenas um amante de programação e estudante de <strong>análise e desenvolvimento de sistemas</strong>.<br>
-  Atualmente apenas me aprofundando em algumas linguagens.
+  Atualmente me aprofundando em algumas linguagens.
 </p>
 
 <p align="left">
