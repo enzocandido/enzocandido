@@ -19,11 +19,11 @@ Here are some ideas to get you started:
 ## ☕ Hello World
 
 <p align="left"> 
-  Apenas um amante de programação e estudante de <strong>análise e desenvolvimento de sistemas</strong>.<br>
-  Atualmente me aprofundando em algumas linguagens.
+  Amante de programação, desenvolvedor front-end e estudante de <strong>análise e desenvolvimento de sistemas</strong>.<br>
+  Atualmente me aprofundando em algumas linguagens e frameworks.
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong>JavaScript, PHP, Python, Java</strong>
+  🦄 Linguagens: <strong>JavaScript, TypeScript, PHP e Java</strong>
 </p>
 
