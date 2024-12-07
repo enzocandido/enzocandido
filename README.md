@@ -22,7 +22,7 @@ Here, you’ll find my experiments, projects, and everything that reflects my jo
 
 **Languages & Frameworks:**  
 - JavaScript | TypeScript | PHP | Java  
-- React | Next.js | Angular | Tailwind CSS  
+- React | React Native | Next.js | Angular | Tailwind CSS  
 
 **Tools & Technologies:**  
 - Oracle Commerce Cloud | Git & GitHub | RESTful APIs  
