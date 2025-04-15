@@ -1,29 +1,29 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
 
-# 🌟 Hello, World!  
+# 🌟 Olá, Mundo!
 
-**Welcome to my GitHub profile!**  
-I'm **Enzo Candido**, a passionate front-end developer and a lifelong learner in the world of technology. Currently in the final semester of my **Systems Analysis and Development** program, I'm honing my skills in building dynamic, user-focused web applications.  
+**Bem-vindo ao meu perfil do GitHub!**  
+Sou o **Enzo Candido**, um desenvolvedor front-end apaixonado por tecnologia e um eterno aprendiz. Atualmente, estou no último semestre do curso de **Análise e Desenvolvimento de Sistemas**, aprimorando minhas habilidades na construção de aplicações web dinâmicas e focadas no usuário.
 
-Here, you’ll find my experiments, projects, and everything that reflects my journey as a developer.  
-
----
-
-### 🚀 About Me  
-
-- 💻 **Tech Enthusiast:** Constantly exploring modern frameworks like React and Next.js.  
-- 🌱 **Lifelong Learner:** Diving deeper into JavaScript, TypeScript, and backend technologies.  
-- 🎯 **Goal-Oriented:** Dedicated to delivering clean, efficient, and scalable code.  
-- 🎨 **Creative Mind:** Passionate about crafting visually appealing and functional interfaces.  
+Aqui você encontrará meus experimentos, projetos e tudo o que reflete a minha jornada como desenvolvedor.
 
 ---
 
-### 🛠️ Skills  
+### 🚀 Sobre Mim
 
-**Languages & Frameworks:**  
+- 💻 **Apaixonado por Tecnologia:** Sempre explorando frameworks modernos como React e Next.js.  
+- 🌱 **Aprendizado Contínuo:** Aprofundando meus conhecimentos em JavaScript, TypeScript e tecnologias de back-end.  
+- 🎯 **Focado em Resultados:** Comprometido em escrever códigos limpos, eficientes e escaláveis.  
+- 🎨 **Mente Criativa:** Gosto de criar interfaces bonitas e funcionais, que oferecem uma ótima experiência ao usuário.
+
+---
+
+### 🛠️ Habilidades
+
+**Linguagens & Frameworks:**  
 - JavaScript | TypeScript | PHP | Java  
 - React | React Native | Next.js | Angular | Tailwind CSS  
 
-**Tools & Technologies:**  
-- Oracle Commerce Cloud | Git & GitHub | RESTful APIs  
+**Ferramentas & Tecnologias:**  
+- Oracle Commerce Cloud | Git & GitHub | APIs REST  
 - SQL | MongoDB | Node.js
